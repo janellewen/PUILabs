@@ -1,9 +1,9 @@
 function addNewList(){
     alert('hello world alert!');
-    console.log('hellow world console');
+    console.log('hello world console');
 }
 
-fuction addListItem() {
+function addListItem() {
     console.log('hello world')
     const list = document.getElementById("grocery-list");
     const itemInput = document.getElementById("new-list-item");

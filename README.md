@@ -1,3 +1,1 @@
 # PUILabs
-* apple
-* orange
